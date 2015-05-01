@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="a4b02a15-362d-4ec4-9869-a3434fdaa9f8" 
+        solutionId="a4b02a15-362d-4ec4-9869-a3434fdaa9f8" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Starcrossed.SPExplorerView"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="6bdcbe79-2eec-4c13-a429-ceaaefb7ec62" />
+  </features>
+</package>
